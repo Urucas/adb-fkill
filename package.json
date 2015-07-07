@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Killing android process from nodejs",
   "main": "bin/index",
+  "bin": {
+    "adb-fkill": "./bin/index"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "make clean && make node",
