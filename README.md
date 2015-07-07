@@ -20,3 +20,6 @@ $ adb-fkill
   PID: 27494 PACKAGE: com.whatsapp
 (Move up and down to reveal more choices)
 ```
+
+#Requirements
+* ADB
